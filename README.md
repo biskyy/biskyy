@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @biskyy
-- 👀 I’m interested in learning how to code different stuff
+- ⌨️ I like to code
 
 <!---
 biskyy/biskyy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
