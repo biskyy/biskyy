@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @biskyy
+- 👋 Hi, I’m biskyy
 - ⌨️ I like to code
 
 <!---
